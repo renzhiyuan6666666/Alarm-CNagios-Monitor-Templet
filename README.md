@@ -1,6 +1,9 @@
 # Alarm-CNagios-Monitor-Templet
   Cacti+Nagios监控特殊需求案例
- 步骤可参考博客：
+  
+  目的：Cacti监控Esxi，欢迎大家提供更多模板
+  
+  步骤可参考博客：
 
   http://renzhiyuan.blog.51cto.com/10433137/1895975
   
